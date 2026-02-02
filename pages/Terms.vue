@@ -23,13 +23,13 @@
             We collect Device Information using the following technologies:
             <br />
         <p>
-            <br />– “Cookies” are data files that are placed on your device or computer and often include an anonymous
+            <br />- “Cookies” are data files that are placed on your device or computer and often include an anonymous
             unique identifier. For more information about cookies, and how to disable cookies, visit
             http://www.allaboutcookies.org.
         </p>
-        – “Log files” track actions occurring on the Site, and collect data including your IP address, browser type,
+        - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type,
         Internet service provider, referring/exit pages, and date/time stamps.
-        – “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the
+        - “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the
         Site, along with basic user-demographic such as general location, age range, and gender, as is provided by
         connected social media websites.
         When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information
@@ -40,13 +40,13 @@
             We use the Order Information that we collect generally to fulfill any orders placed through the Site
             (including processing your payment information, arranging for shipping, and providing you with invoices
             and/or order confirmations). Additionally, we use this Order Information to:</p>
-        – Communicate with you;
-        – Screen our orders for potential risk or fraud; and
-        – When in line with the preferences you have shared with us, provide you with information or advertising
+        - Communicate with you;
+        - Screen our orders for potential risk or fraud; and
+        - When in line with the preferences you have shared with us, provide you with information or advertising
         relating to our products or services.
-        – Analyze our customer demographic to bring you better products and deals.
-        – Create relevant marketing material for you and potential new customers.
-        – Do market research to improve our shipping/RMA centers.
+        - Analyze our customer demographic to bring you better products and deals.
+        - Create relevant marketing material for you and potential new customers.
+        - Do market research to improve our shipping/RMA centers.
         We use the Device Information that we collect to help us screen for potential risk and fraud (in particular,
         your IP address), and more generally to improve and optimize our Site (for example, by generating analytics
         about how our customers browse and interact with the Site, and to assess the success of our marketing and
@@ -68,15 +68,15 @@
             advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at
             http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p>
         You can opt out of targeted advertising by using the links below:
-        – Facebook: https://www.facebook.com/settings/?tab=ads
-        – Google: https://www.google.com/settings/ads/anonymous
-        – Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+        - Facebook: https://www.facebook.com/settings/?tab=ads
+        - Google: https://www.google.com/settings/ads/anonymous
+        - Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
         Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out
         portal at: http://optout.aboutads.info/.
         <br />
         <br />DO NOT TRACK
         <p>
-            Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track
+            Please note that we do not alter our Site`s data collection and use practices when we see a Do Not Track
             signal from your browser.
             Please note that your information may be transferred outside of Bangladesh.</p>
         <br />

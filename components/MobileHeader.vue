@@ -274,13 +274,13 @@
                                 </li>
                               </NuxtLink>
 
-                              <NuxtLinkt to="/carcharger">
+                              <NuxtLink to="/carcharger">
                                 <li
                                   class="px-6 py-2 border-b border-gray-200 w-full"
                                 >
                                   Car Charger
                                 </li>
-                              </NuxtLinkt>
+                              </NuxtLink>
 
                               <NuxtLink to="/powerbank">
                                 <li

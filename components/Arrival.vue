@@ -16,7 +16,7 @@
             :key="product.slug"
           >
             <router-link :to="`/product/${product.slug}`">
-              <img :src="product.thumbnail" alt="Casing" style="width: 250px" />
+              <img :src="product.photo" :alt="product.name" />
               <p class="text-rongtatext text-sm font-semibold px-8 py-2">
                 {{ product.name }}
               </p>
@@ -57,7 +57,6 @@ export default {
           },
         })
         .then((response) => {
-          console.log(response.data);
           this.products = response.data.data;
         });
     },
